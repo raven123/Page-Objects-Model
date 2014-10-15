@@ -40,13 +40,7 @@ import com.test.steps.SampleJBehaveSteps;
 
 import de.codecentric.jbehave.junit.monitoring.JUnitReportingRunner;
 
-/**
- * This is the Main/Runner class to map the feature files with the steps class
- * This class also parses the .feature file and invokes the corresponding step
- * class
- * 
- * @author CitiusTech
- */
+
 
 @SuppressWarnings("nls")
 @RunWith(JUnitReportingRunner.class)
