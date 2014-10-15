@@ -34,4 +34,24 @@ public class SampleJBehaveSteps {
 	{
 		Assert.assertTrue(home.checkSearchResults());
 	}
+	
+	
+	
+	/**
+	 * The required libraries in the Page Object model of Jbehave are : 
+	 * Jbehave-web-selenium-3.5
+	 * Jbehave-core-3.92
+	 * paranamer2.4
+	 * xstream 1.45
+	 * xpp3_min-1.14c
+	 * commons.lang-2.6
+	 * freemarker-2.3.19
+	 * plexus-utils-3.0.10
+	 * Jbehave-Junit_runner-1.1.2
+	 * selenium-api-2.9.0
+	 * selenium-standalaone-server-2.42.2
+	 * and also include Junit4 standard libraries
+	 * 
+	 * 
+	 */
 }
